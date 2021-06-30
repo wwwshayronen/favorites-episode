@@ -1,3 +1,5 @@
-### TODO LIST
+### choose your favorite episode
 
-## my first project using typescript in React
+## React-typescript, hooks (useReducer, lazy, suspense and more!)
+
+## demo: 
