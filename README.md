@@ -1,5 +1,5 @@
-### choose your favorite episode
+### choose your favorite episode app
 
 ## React-typescript, hooks (useReducer, lazy, suspense and more!)
 
-## demo: 
+## demo: https://app.netlify.com/sites/adoring-pasteur-e74139/overview
